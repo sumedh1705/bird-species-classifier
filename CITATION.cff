@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite our IEEE paper."
+title: "Bird Species Classifier"
+type: software
+authors:
+  - family-names: Ukey
+    given-names: Ekta
+  - family-names: Shigaonkar
+    given-names: Sumedh
+  - family-names: Shaikh
+    given-names: Sharif
+  - family-names: Shaikh
+    given-names: Haji
+repository-code: "https://github.com/sumedh1705/bird-species-classifier"
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: Ukey
+      given-names: Ekta
+    - family-names: Shigaonkar
+      given-names: Sumedh
+    - family-names: Shaikh
+      given-names: Sharif
+    - family-names: Shaikh
+      given-names: Haji
+  title: "Multiclass Bird Species Classification Using VGG16 and TensorFlow: A Deep Learning Approach"
+  year: 2024
+  collection-title: "2024 IEEE 2nd International Conference on Innovations in High Speed Communication and Signal Processing (IHCSP)"
+  doi: "10.1109/IHCSP63227.2024.10959970"
